@@ -1,6 +1,6 @@
 # Propose Your Valentine
 
-live at: https://proposal.netlify.app/
+live at: https://proposal1.netlify.app/
 
 ### or use manually
 
